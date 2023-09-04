@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @LocalAlloc
-- 👀 I’m fluent in python, C++, Learning C#(not throughly) 
-- 🌱 I’m currently learning C# and Web Development
-- 💞️ I’ve Created The No Escape "CLONE" (just immitated it)
-- 📫 How to reach me https://hackerman.ezyro.com or my email : oisci0794@gmail.com
-- I started programming when i was 11(2020) - LocalAlloc 25-05-23
+- 📫 How to reach me *unknown* or my email : *unknown*
 - [![LocalAlloc's GitHub stats](https://github-readme-stats.vercel.app/api?username=LocalAlloc&show_icons=true&theme=blue-green&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
