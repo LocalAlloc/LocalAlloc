@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LocalAlloc
-- 📫 How to reach me *unknown* or my email : *unknown*
+- 📫 How to reach me *unknown* or my email : Private: oisci0794@gmail.com Public : localalloc@gmail.com
+- if you wanna reach me soon use the private email, since I'm always online in that one, if it's not that important use the public email, you're free to use any so proceed :D
 - [![LocalAlloc's GitHub stats](https://github-readme-stats.vercel.app/api?username=LocalAlloc&show_icons=true&theme=blue-green&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
